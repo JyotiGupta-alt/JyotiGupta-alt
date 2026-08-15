@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jyoti Gupta 👋</h1>
 
-<h3 align="center">MCA Student | Frontend Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">MCA Student | Full-Stack Developer </h3>
 
 <p align="center">
 Building responsive, user-focused web apps with <b>React, JavaScript & PHP</b>
